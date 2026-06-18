@@ -7,7 +7,7 @@ Computer Science Engineering (S5)
 ### Career Goal
 Software Developer | AI & Data Science Enthusiast
 
-###LinkedInURL
+### LinkedInURL
 https://www.linkedin.com/in/sneha-v-m-a08270331
 
 
