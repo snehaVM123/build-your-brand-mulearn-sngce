@@ -7,7 +7,8 @@ Computer Science Engineering (S5)
 ### Career Goal
 Software Developer | AI & Data Science Enthusiast
 
-###LinkedInURLhttps://www.linkedin.com/in/sneha-v-m-a08270331
+###LinkedInURL
+https://www.linkedin.com/in/sneha-v-m-a08270331
 
 
 ### What you learned so far from the event Build Your Brand?
